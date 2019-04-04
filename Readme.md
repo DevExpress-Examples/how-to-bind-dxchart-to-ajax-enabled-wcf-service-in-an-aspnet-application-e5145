@@ -4,7 +4,7 @@
 * [Sale.cs](./CS/DxSample/DAL/BO/Sale.cs) (VB: [Sale.vb](./VB/DxSample/DAL/BO/Sale.vb))
 * [DxSampleService.svc.cs](./CS/DxSample/DAL/DxSampleService.svc.cs) (VB: [DxSampleService.svc.vb](./VB/DxSample/DAL/DxSampleService.svc.vb))
 * [Default.aspx](./CS/DxSample/Default.aspx) (VB: [Default.aspx](./VB/DxSample/Default.aspx))
-* [Default.aspx.cs](./CS/DxSample/Default.aspx.cs) (VB: [Default.aspx](./VB/DxSample/Default.aspx))
+* [Default.aspx.cs](./CS/DxSample/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/DxSample/Default.aspx.vb))
 * **[Default.js](./CS/DxSample/Scripts/Default.js) (VB: [Default.js](./VB/DxSample/Scripts/Default.js))**
 * [Site.Master](./CS/DxSample/Site.Master) (VB: [Site.Master.vb](./VB/DxSample/Site.Master.vb))
 <!-- default file list end -->
