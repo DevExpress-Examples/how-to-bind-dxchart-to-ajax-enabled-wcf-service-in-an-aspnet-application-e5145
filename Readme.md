@@ -2,8 +2,8 @@
 
 This example is now obsolete. You can find an actual example in our technical demos:
 
-[Angular](https://js.devexpress.com/Demos/WidgetsGallery/Demo/ClientSideDataProcessing/Angular/Light/)<br/>
-[React](https://js.devexpress.com/Demos/WidgetsGallery/Demo/ClientSideDataProcessing/React/Light/)<br/>
-[Vue](https://js.devexpress.com/Demos/WidgetsGallery/Demo/ClientSideDataProcessing/Vue/Light/)<br/>
-[ASP.NET](https://js.devexpress.com/Demos/WidgetsGallery/Demo/ClientSideDataProcessing/NetCore/Light/)<br/>
-[jQuery](https://js.devexpress.com/Demos/WidgetsGallery/Demo/ClientSideDataProcessing/jQuery/Light/)<br/>
+[Angular](https://js.devexpress.com/Demos/WidgetsGallery/Demo/Charts/ClientSideDataProcessing/Angular/Light/)<br/>
+[React](https://js.devexpress.com/Demos/WidgetsGallery/Demo/Charts/ClientSideDataProcessing/React/Light/)<br/>
+[Vue](https://js.devexpress.com/Demos/WidgetsGallery/Demo/Charts/ClientSideDataProcessing/Vue/Light/)<br/>
+[ASP.NET](https://js.devexpress.com/Demos/WidgetsGallery/Demo/Charts/ClientSideDataProcessing/NetCore/Light/)<br/>
+[jQuery](https://js.devexpress.com/Demos/WidgetsGallery/Demo/Charts/ClientSideDataProcessing/jQuery/Light/)<br/>
